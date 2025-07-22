@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Tieu Pham Trong Nhan
-- 👀 I’m interested in Cyber Security and Hacking
-- 🌱 I’m currently learning Cyber Security in HUFLIT University 
-- 📫 How to reach me ...
+- 👋 Hi, I’m nhantieu, i'am hacker
 
 <!---
 tptnhanan2001/tptnhanan2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
